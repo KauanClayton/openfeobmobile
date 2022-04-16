@@ -58,7 +58,7 @@ class _BodyHomeState extends State<BodyHome> {
             }).toList(),
           ),
           Divider(
-            height: 20,
+            height: 25,
             thickness: 5,
             indent: 0,
             endIndent: 0,
